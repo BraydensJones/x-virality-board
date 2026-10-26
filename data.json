@@ -1,20 +1,88 @@
 {
-  "title": "Daily X narrative digest — pending first scrape",
+  "title": "Daily X narrative digest — 2026-10-26",
   "date": "2026-10-26",
   "timezone": "America/New_York",
-  "updated": "2026-10-26T09:00:00-04:00",
+  "updated": "2026-10-26T11:30:00-04:00",
   "brand_title": "Brayden X Virality Score",
   "brand_handle": "@brayden_only",
-  "hits": [],
+  "hits": [
+    {
+      "name": "Marc Lou",
+      "handle": "@marclou",
+      "views": 166000,
+      "views_label": "166K",
+      "url": "https://x.com/marclou",
+      "highlight": true,
+      "hook": "I might be able to leave the basement if it keeps going",
+      "text": "I might be able to leave the basement if it keeps going\n\nMailCheap.AI (ARR chart: $11,268, +600.75% vs $1,608 previous period)",
+      "draft_en": "3 weeks ago this local roofer was invisible in ChatGPT.\n\nNow he is the name it gives when someone asks for the best roofer in town.\n\nSame website. We just rewrote it to answer the exact questions buyers ask AI.\n\nAEO is the cheapest lead channel nobody in home services is touching yet.\n\nGo ask ChatGPT to recommend someone in your trade. If it is not you, that is the work.",
+      "video_tip": "Screen-record asking ChatGPT 'best roofer in [city]' before vs after. The reveal is the whole video."
+    },
+    {
+      "name": "Marc Lou",
+      "handle": "@marclou",
+      "views": 32000,
+      "views_label": "32K",
+      "url": "https://x.com/marclou",
+      "highlight": true,
+      "hook": "6-figure emails sent, 107,972 to be precise",
+      "text": "✅ 6-figure emails sent on MailCheap.AI\n\n107,972, to be precise :)",
+      "draft_en": "Checked how many AI searches surfaced a client this month.\n\n1,284. Not 'thousands.' 1,284.\n\nSix months ago it was 0, because AI could not find a clear answer anywhere on their site.\n\nSpecific beats vague every time, on your pages and in your reporting.\n\nPull your own number this week. You cannot improve what you refuse to count.",
+      "video_tip": "Show the real number counting up on screen while you talk. The exact figure is the thumbnail."
+    },
+    {
+      "name": "Tibo",
+      "handle": "@tibo_maker",
+      "views": 26000,
+      "views_label": "26K",
+      "url": "https://x.com/tibo_maker",
+      "highlight": true,
+      "hook": "how to build and run an army of AI UGC accounts (9 steps, 12 prompts, ready to copy)",
+      "text": "how to build and run an army of AI UGC accounts\n\nin this article I'll walk you through all 9 steps of the setup, with the 12 prompts I use, ready to copy, in the order you'll need them.",
+      "draft_en": "how to make a local business the answer AI recommends (7 steps, copy-paste):\n\n1. list the 10 questions buyers actually type into ChatGPT\n2. one page per question\n3. answer it in the first sentence, not paragraph 4\n4. add FAQ schema so the model can parse it\n5. cite real numbers and names\n6. keep each answer under 300 words\n7. refresh the top 3 pages monthly\n\nMost SEO agencies are not doing a single one of these. Start today.",
+      "video_tip": "Talking head with the 7 steps as an on-screen text stack, one line per beat."
+    },
+    {
+      "name": "Marc Lou",
+      "handle": "@marclou",
+      "views": 19000,
+      "views_label": "19K",
+      "url": "https://x.com/marclou",
+      "highlight": true,
+      "hook": "SaaS is so dead",
+      "text": "SaaS is so dead\n\n(quote-posting: 'my new saas made $1000 in 1 day')",
+      "draft_en": "SEO is cooked.\n\nNot because search died. Because the click did.\n\nPeople ask AI and take the answer. No blue link, no visit, no you.\n\nIf your site is not the source the model quotes, you are not ranked lower. You are invisible.\n\nGo check: does ChatGPT name your business? That is the only ranking that matters now.",
+      "video_tip": "Open on the words 'SEO is cooked' full screen for 2 seconds, then cut to you."
+    },
+    {
+      "name": "Tibo",
+      "handle": "@tibo_maker",
+      "views": 15000,
+      "views_label": "15K",
+      "url": "https://x.com/tibo_maker",
+      "highlight": true,
+      "hook": "65% of the listicles AI cited had '2026' in the title",
+      "text": "wild discovery: on my latest test, 65% of the listicles AI cited had \"2026\" in the title",
+      "draft_en": "Wild thing I found auditing home-service sites this week:\n\nThe ones AI recommends were not the ones with the best Google rankings.\n\nThey were the ones that answered the question in sentence one.\n\nAI does not rank you. It quotes you.\n\nRewrite your top page so the first line is the answer. Watch what happens.",
+      "video_tip": "Split screen: Google results on the left, the AI answer quoting the client's page on the right."
+    }
+  ],
   "virals": [],
   "outsiders": [],
-  "patterns": [],
+  "patterns": [
+    "revenue / metric screenshot + humble one-liner",
+    "hyper-specific numbers (107,972 not 'thousands')",
+    "contrarian 3-word hook (SaaS is so dead)",
+    "army of AI [X] systematization",
+    "N steps, ready to copy",
+    "wild discovery + surprising stat"
+  ],
   "no_hits": [],
-  "virals_narrative": "",
-  "narrative_synthesis": "",
+  "virals_narrative": "Outsiders (accounts beyond your watchlist) were not scouted this first run. This digest is watchlist-only: the search covered all 18 accounts over the last ~48h, sorted by engagement.",
+  "narrative_synthesis": "Marc Lou's MailCheap.AI launch week dominates: proof screenshots (ARR, email volume) plus short contrarian hooks. Tibo wins with systematized 'army of AI' how-tos and a sharp data-point hook. The through-line is precision (exact numbers) and a single idea per post.",
   "virals_window": "last ~48h",
   "virals_target": 20,
-  "hits_count": 0,
+  "hits_count": 5,
   "outsiders_count": 0,
   "previous_day": {
     "date": "",
@@ -25,17 +93,23 @@
   "leaderboards": {
     "as_of": "2026-10-26",
     "tracking_start": "2026-10-26",
-    "days_included": [],
-    "month_days_included": [],
+    "days_included": ["2026-10-26"],
+    "month_days_included": ["2026-10-26"],
     "week": {
-      "label": "Rolling week",
+      "label": "Rolling week · Oct 26",
       "range": ["2026-10-26", "2026-10-26"],
-      "entries": []
+      "entries": [
+        {"handle": "@marclou", "name": "Marc Lou", "hits": 3, "days": 1, "views": 217000, "best": 166000, "best_url": "https://x.com/marclou"},
+        {"handle": "@tibo_maker", "name": "Tibo", "hits": 2, "days": 1, "views": 41000, "best": 26000, "best_url": "https://x.com/tibo_maker"}
+      ]
     },
     "month": {
       "label": "October 2026 · from Oct 26",
       "range": ["2026-10-26", "2026-10-26"],
-      "entries": []
+      "entries": [
+        {"handle": "@marclou", "name": "Marc Lou", "hits": 3, "days": 1, "views": 217000, "best": 166000, "best_url": "https://x.com/marclou"},
+        {"handle": "@tibo_maker", "name": "Tibo", "hits": 2, "days": 1, "views": 41000, "best": 26000, "best_url": "https://x.com/tibo_maker"}
+      ]
     }
   },
   "board_features": {
@@ -59,6 +133,9 @@
   "ui": {
     "default_theme": "night"
   },
-  "day_roster": [],
+  "day_roster": [
+    {"handle": "@marclou", "name": "Marc Lou", "best": 166000, "total": 217000, "hits": 3},
+    {"handle": "@tibo_maker", "name": "Tibo", "best": 26000, "total": 41000, "hits": 2}
+  ],
   "you_rank": null
 }
