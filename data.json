@@ -2,7 +2,7 @@
   "title": "Daily X narrative digest — 2026-10-26",
   "date": "2026-10-26",
   "timezone": "America/New_York",
-  "updated": "2026-10-26T11:30:00-04:00",
+  "updated": "2026-10-26T12:05:00-04:00",
   "brand_title": "Brayden X Virality Score",
   "brand_handle": "@brayden_only",
   "hits": [
@@ -55,6 +55,18 @@
       "video_tip": "Open on the words 'SEO is cooked' full screen for 2 seconds, then cut to you."
     },
     {
+      "name": "Riley Brown",
+      "handle": "@rileybrown",
+      "views": 18000,
+      "views_label": "18K",
+      "url": "https://x.com/rileybrown",
+      "highlight": true,
+      "hook": "make it free, monetize in other ways",
+      "text": "Yup, make it free, monetize in other ways.\n\n(quote-posting: 'My take: SaaS is dead. Software is charity now, make money elsewhere.')",
+      "draft_en": "The best lead magnet for a local business right now is free.\n\nGive away the AI visibility audit. Show them exactly what ChatGPT says when someone asks for their service.\n\nMost of the time the answer is a competitor, or nobody.\n\nThat 2-minute reveal sells the fix better than any pitch deck.\n\nCharge for the rebuild, not the reveal.",
+      "video_tip": "Record the live audit: type the prompt, let the answer load, watch their face. That is the ad."
+    },
+    {
       "name": "Tibo",
       "handle": "@tibo_maker",
       "views": 15000,
@@ -64,7 +76,19 @@
       "hook": "65% of the listicles AI cited had '2026' in the title",
       "text": "wild discovery: on my latest test, 65% of the listicles AI cited had \"2026\" in the title",
       "draft_en": "Wild thing I found auditing home-service sites this week:\n\nThe ones AI recommends were not the ones with the best Google rankings.\n\nThey were the ones that answered the question in sentence one.\n\nAI does not rank you. It quotes you.\n\nRewrite your top page so the first line is the answer. Watch what happens.",
-      "video_tip": "Split screen: Google results on the left, the AI answer quoting the client's page on the right."
+      "video_tip": "Split screen: Google results vs the AI answer quoting the client's page."
+    },
+    {
+      "name": "Daniel Vassallo",
+      "handle": "@dvassallo",
+      "views": 6300,
+      "views_label": "6.3K",
+      "url": "https://x.com/dvassallo",
+      "highlight": false,
+      "hook": "the painter who went to trade school",
+      "text": "What's great about America: the painter who went to trade school wants the same life as the doctor who went to med school. And he mostly gets it. The downside is no cheap services. Everyone's time is expensive. (quote of a $2,400 painting-quote post)",
+      "draft_en": "A painter just got quoted $2,400 for a job with $110 of materials.\n\nPeople call that a ripoff. It is not. You are paying for the 15 years that make it fast and clean.\n\nSame with AI visibility work. The schema takes 20 minutes. Knowing which 10 questions to answer took me 100 clients.\n\nPrice the judgment, not the typing.",
+      "video_tip": "Hold up a $110 paint can, then a $2,400 invoice. The gap is the hook."
     }
   ],
   "virals": [],
@@ -73,16 +97,33 @@
     "revenue / metric screenshot + humble one-liner",
     "hyper-specific numbers (107,972 not 'thousands')",
     "contrarian 3-word hook (SaaS is so dead)",
+    "the week's meta: 'SaaS is dead, monetize elsewhere'",
     "army of AI [X] systematization",
     "N steps, ready to copy",
-    "wild discovery + surprising stat"
+    "wild discovery + surprising stat",
+    "price the judgment, not the task"
   ],
-  "no_hits": [],
-  "virals_narrative": "Outsiders (accounts beyond your watchlist) were not scouted this first run. This digest is watchlist-only: the search covered all 18 accounts over the last ~48h, sorted by engagement.",
-  "narrative_synthesis": "Marc Lou's MailCheap.AI launch week dominates: proof screenshots (ARR, email volume) plus short contrarian hooks. Tibo wins with systematized 'army of AI' how-tos and a sharp data-point hook. The through-line is precision (exact numbers) and a single idea per post.",
+  "no_hits": [
+    {"handle": "@levelsio", "reason": "Recent high-view posts were off-niche (Brazil politics, a security quote-post); nothing on building/AI startups cleared 5k.", "max_views": null},
+    {"handle": "@gregisenberg", "reason": "No original post cleared 5,000 views in the last ~48h sweep.", "max_views": null},
+    {"handle": "@arvidkahl", "reason": "Only replies in the window, no original >= 5k.", "max_views": null},
+    {"handle": "@dannypostma", "reason": "No original post cleared 5,000 views in the last ~48h sweep.", "max_views": null},
+    {"handle": "@thepatwalls", "reason": "No original post cleared 5,000 views in the last ~48h sweep.", "max_views": null},
+    {"handle": "@csallen", "reason": "No original post cleared 5,000 views in the last ~48h sweep.", "max_views": null},
+    {"handle": "@yongfook", "reason": "No original post cleared 5,000 views in the last ~48h sweep.", "max_views": null},
+    {"handle": "@Shpigford", "reason": "No original post cleared 5,000 views in the last ~48h sweep.", "max_views": null},
+    {"handle": "@jakobgreenfeld", "reason": "No original post cleared 5,000 views in the last ~48h sweep.", "max_views": null},
+    {"handle": "@mckaywrigley", "reason": "No original post cleared 5,000 views in the last ~48h sweep.", "max_views": null},
+    {"handle": "@swyx", "reason": "No original post cleared 5,000 views in the last ~48h sweep.", "max_views": null},
+    {"handle": "@NickAbraham12", "reason": "No original post cleared 5,000 views in the last ~48h sweep.", "max_views": null},
+    {"handle": "@tdinh_me", "reason": "No original post cleared 5,000 views in the last ~48h sweep.", "max_views": null},
+    {"handle": "@IndieHackers", "reason": "No original post cleared 5,000 views in the last ~48h sweep.", "max_views": null}
+  ],
+  "virals_narrative": "Outsiders (accounts beyond your watchlist) were not scouted this run. This is a full watchlist sweep: all 18 accounts searched over the last ~48h, sorted by engagement, then enumerated chronologically to catch everyone.",
+  "narrative_synthesis": "The meta of the week is 'SaaS is dead, monetize elsewhere' (Marc Lou, Riley Brown both riding it). Marc Lou's MailCheap.AI launch dominates on proof screenshots and exact numbers. Tibo wins with systematized how-tos and a sharp data-point hook. Through-line: one idea per post, specific numbers, a clear move at the end.",
   "virals_window": "last ~48h",
   "virals_target": 20,
-  "hits_count": 5,
+  "hits_count": 7,
   "outsiders_count": 0,
   "previous_day": {
     "date": "",
@@ -100,7 +141,9 @@
       "range": ["2026-10-26", "2026-10-26"],
       "entries": [
         {"handle": "@marclou", "name": "Marc Lou", "hits": 3, "days": 1, "views": 217000, "best": 166000, "best_url": "https://x.com/marclou"},
-        {"handle": "@tibo_maker", "name": "Tibo", "hits": 2, "days": 1, "views": 41000, "best": 26000, "best_url": "https://x.com/tibo_maker"}
+        {"handle": "@tibo_maker", "name": "Tibo", "hits": 2, "days": 1, "views": 41000, "best": 26000, "best_url": "https://x.com/tibo_maker"},
+        {"handle": "@rileybrown", "name": "Riley Brown", "hits": 1, "days": 1, "views": 18000, "best": 18000, "best_url": "https://x.com/rileybrown"},
+        {"handle": "@dvassallo", "name": "Daniel Vassallo", "hits": 1, "days": 1, "views": 6300, "best": 6300, "best_url": "https://x.com/dvassallo"}
       ]
     },
     "month": {
@@ -108,7 +151,9 @@
       "range": ["2026-10-26", "2026-10-26"],
       "entries": [
         {"handle": "@marclou", "name": "Marc Lou", "hits": 3, "days": 1, "views": 217000, "best": 166000, "best_url": "https://x.com/marclou"},
-        {"handle": "@tibo_maker", "name": "Tibo", "hits": 2, "days": 1, "views": 41000, "best": 26000, "best_url": "https://x.com/tibo_maker"}
+        {"handle": "@tibo_maker", "name": "Tibo", "hits": 2, "days": 1, "views": 41000, "best": 26000, "best_url": "https://x.com/tibo_maker"},
+        {"handle": "@rileybrown", "name": "Riley Brown", "hits": 1, "days": 1, "views": 18000, "best": 18000, "best_url": "https://x.com/rileybrown"},
+        {"handle": "@dvassallo", "name": "Daniel Vassallo", "hits": 1, "days": 1, "views": 6300, "best": 6300, "best_url": "https://x.com/dvassallo"}
       ]
     }
   },
@@ -135,7 +180,9 @@
   },
   "day_roster": [
     {"handle": "@marclou", "name": "Marc Lou", "best": 166000, "total": 217000, "hits": 3},
-    {"handle": "@tibo_maker", "name": "Tibo", "best": 26000, "total": 41000, "hits": 2}
+    {"handle": "@tibo_maker", "name": "Tibo", "best": 26000, "total": 41000, "hits": 2},
+    {"handle": "@rileybrown", "name": "Riley Brown", "best": 18000, "total": 18000, "hits": 1},
+    {"handle": "@dvassallo", "name": "Daniel Vassallo", "best": 6300, "total": 6300, "hits": 1}
   ],
   "you_rank": null
 }
